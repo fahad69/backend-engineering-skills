@@ -5,34 +5,34 @@ A complete set of agent skills for building production-grade backend systems fro
 ## Install All Skills
 
 ```bash
-npx skills add <your-github-username>/backend-engineering-skills --all -g -y
+npx skills add fahad69/backend-engineering-skills --all -g -y
 ```
 
 ## Install Individual Skills
 
 ```bash
 # The complete guide (recommended starting point)
-npx skills add <your-github-username>/backend-engineering-skills@backend-engineering -g -y
+npx skills add fahad69/backend-engineering-skills@backend-engineering -g -y
 
 # Individual topic skills
-npx skills add <your-github-username>/backend-engineering-skills@http-protocol -g -y
-npx skills add <your-github-username>/backend-engineering-skills@api-routing -g -y
-npx skills add <your-github-username>/backend-engineering-skills@serialization -g -y
-npx skills add <your-github-username>/backend-engineering-skills@auth-authorization -g -y
-npx skills add <your-github-username>/backend-engineering-skills@validation -g -y
-npx skills add <your-github-username>/backend-engineering-skills@architecture -g -y
-npx skills add <your-github-username>/backend-engineering-skills@rest-api-design -g -y
-npx skills add <your-github-username>/backend-engineering-skills@databases -g -y
-npx skills add <your-github-username>/backend-engineering-skills@caching -g -y
-npx skills add <your-github-username>/backend-engineering-skills@task-queues -g -y
-npx skills add <your-github-username>/backend-engineering-skills@full-text-search -g -y
-npx skills add <your-github-username>/backend-engineering-skills@error-handling -g -y
-npx skills add <your-github-username>/backend-engineering-skills@config-management -g -y
-npx skills add <your-github-username>/backend-engineering-skills@observability -g -y
-npx skills add <your-github-username>/backend-engineering-skills@graceful-shutdown -g -y
-npx skills add <your-github-username>/backend-engineering-skills@backend-security -g -y
-npx skills add <your-github-username>/backend-engineering-skills@scaling-performance -g -y
-npx skills add <your-github-username>/backend-engineering-skills@concurrency -g -y
+npx skills add fahad69/backend-engineering-skills@http-protocol -g -y
+npx skills add fahad69/backend-engineering-skills@api-routing -g -y
+npx skills add fahad69/backend-engineering-skills@serialization -g -y
+npx skills add fahad69/backend-engineering-skills@auth-authorization -g -y
+npx skills add fahad69/backend-engineering-skills@validation -g -y
+npx skills add fahad69/backend-engineering-skills@architecture -g -y
+npx skills add fahad69/backend-engineering-skills@rest-api-design -g -y
+npx skills add fahad69/backend-engineering-skills@databases -g -y
+npx skills add fahad69/backend-engineering-skills@caching -g -y
+npx skills add fahad69/backend-engineering-skills@task-queues -g -y
+npx skills add fahad69/backend-engineering-skills@full-text-search -g -y
+npx skills add fahad69/backend-engineering-skills@error-handling -g -y
+npx skills add fahad69/backend-engineering-skills@config-management -g -y
+npx skills add fahad69/backend-engineering-skills@observability -g -y
+npx skills add fahad69/backend-engineering-skills@graceful-shutdown -g -y
+npx skills add fahad69/backend-engineering-skills@backend-security -g -y
+npx skills add fahad69/backend-engineering-skills@scaling-performance -g -y
+npx skills add fahad69/backend-engineering-skills@concurrency -g -y
 ```
 
 ## Skills Overview
