@@ -1,6 +1,6 @@
 ---
 name: backend-engineering
-description: Use this skill for any backend engineering task — building APIs, designing systems, implementing authentication, databases, caching, security, scaling, or when the user asks how to build a backend system correctly from first principles. This is the comprehensive backend engineering guide covering all topics: HTTP, routing, serialization, auth, validation, architecture, REST API, databases, caching, task queues, search, error handling, config management, observability, graceful shutdown, security, performance, scaling, and concurrency.
+description: "Use this skill for any backend engineering task — building APIs, designing systems, implementing authentication, databases, caching, security, scaling, or when the user asks how to build a backend system correctly from first principles. This is the comprehensive backend engineering guide covering all topics: HTTP, routing, serialization, auth, validation, architecture, REST API, databases, caching, task queues, search, error handling, config management, observability, graceful shutdown, security, performance, scaling, and concurrency."
 ---
 
 # Backend Engineering — Complete Guide from First Principles
